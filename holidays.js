@@ -80,3 +80,5 @@ const holidays = [
     date: "12/25/2025"
   }
 ]
+
+module.exports = holidays;
